@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Schenk's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# David Schenk
+Software Engineer
 
 
-## Currently
+Education
+---------
 
-Standing on the shoulders of giants
+**CAS .NET Enterprise Applications, HSR** (2012-2013)
 
-### Specialized in
+**Elektrotechnik und Informationstechnologie, ETHZ** (2011)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**B.Sc. of Information Technology and Electrical Engineering, ETHZ** (2006-2010)
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Subject specialization: Computers and Networks
 
 
-## Education
+Work Experience
+---------
 
-`1654-1660`
-__The King's School, Grantham.__
+**Software Engineer, UPGREAT AG**  (2013-2018, Fehraltorf)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Senior Software Engineer, UPGREAT AG**  (2018-present, Fehraltorf)
+- Mapping of business processes
+- Development of project specific Web APIs (e.g. Azure Functions)
+- Development of applications in C#
+- Scripting data aggregation and Reports in PowerShell
+- Data migrations
+- Consulting for technical users
+- Development of customized SharePoint solutions
+- Elaboration of concepts, software design and architecture
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+**Software Engineer, GrischaIT AG** ( 2012 - 2013, Chur)
+- Development of customized SharePoint solutions 
+- Development of applications in Microsoft .NET environment 
+	mainly client/server applications
+- Elaboration of concepts, software design and architecture
 
 
+Skills
+------
 
-## Publications
+**Primary Programming skills:** 
+- C#
+- PowerShell
+- JavaScript
+- HTML/CSS
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**Secondary Programming skills:** 
+- React
+- SQL
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Tools and Technologies:**
+- Visual Studio Code
+- SharePoint
 
 
-## Occupation
+Languages
+------
 
-`1600`
-__Royal Mint__, London
+**English:** verbal and written, high school diploma
 
-- Warden
-- Minted coins
+**German:** mother tongue
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+**Latin:**  written, high school diploma
 
+Hobbies
+------
+- Coding
+- Hiking
+- Audiobooks
+- the last two combined
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2022 -->
 
 
